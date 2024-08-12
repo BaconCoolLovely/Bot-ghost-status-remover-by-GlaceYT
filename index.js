@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","sic.webnode.nl"];
+const statusMessages = ["Mobby made by Roy","sic.webnode.nl"];
 
 
 let currentIndex = 0;
